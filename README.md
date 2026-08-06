@@ -1,39 +1,58 @@
-<div id="header" align="center">
- 
- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXVtOWY5NzM2M3ZjeWRqNjZyMmZpYnkzaWJ6eXd1dWQ5eTZkN3dhbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jwxy5MXUWDKlUtQatg/giphy.gif" style="width:70%;height:0;padding-bottom:75%;position:relative;"/>
-  <div id="badges">
-    <a href="your-linkedin-URL">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="your-youtube-URL">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-    </a>
-    <a href="your-twitter-URL">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-  </div>
-  <br>
-</div>
-<div align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CCF7F5&background=8219FFB3&center=true&vCenter=true&random=false&width=470&height=60&lines=Hi%2C+there%2C+I'm+Yahya+H" alt="Typing SVG" /></a>
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yahyalt&style=for-the-badge&color=22D3EE&label=Profile+Views" alt="profile views" />
+  <a href="https://linkedin.com/in/yahya-hafidz">
+    <img src="https://img.shields.io/badge/LinkedIn-yahya--hafidz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a>
+  <a href="https://github.com/Yahyalt?tab=followers">
+    <img src="https://img.shields.io/github/followers/Yahyalt?style=for-the-badge&logo=github&label=Followers&color=22D3EE" alt="followers"/>
+  </a>
+</p>
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white"/>
-</div>
+### 🧪 About
+
+I build test automation frameworks and reliability tooling — focused on catching what manual testing misses, in web, mobile, and API layers.
+
+- 🛠️ &nbsp; Automating end-to-end and API test flows with **Playwright, Cypress, Katalon Studio, CodeceptJS, and Karate**.
+- 🧠 &nbsp; Most days I'm deep in **JavaScript/TypeScript**, cross-checking frontend data against backend records via SQL, MongoDB, and API gateway logs.
+- 🌱 &nbsp; Currently learning **backend/fullstack development** — Node.js (Hapi.js), PHP/Laravel, and PostgreSQL — to build my own tools and trace bugs at the source, not just the surface.
 
 ---
 
-### :fire: My Stats :
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Yahyalt&show_icons=true&theme=radical"/>
+### 🚀 Featured projects
+
+> **[Notes API — Backend Application](https://github.com/Yahyalt/Notes-API---Backend-Application)** — a backend REST API built while learning server-side development.
+
+> **[playwright-porto](https://github.com/Yahyalt/playwright-porto)** — an automation testing portfolio built with Playwright + TypeScript.
+
+> **[API-automation](https://github.com/Yahyalt/API-automation)** — API test automation, built for learning purposes.
+
+> **[Weather API Test Suite (Katalon Studio)](https://github.com/Yahyalt/Weather-API-Test-Suite-Katalon-Studio-)** — API test suite against OpenWeatherMap, built in Katalon Studio.
 
 ---
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
+### 🧰 Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,php,laravel,html,mysql,postgres,mongodb,git,github,vscode" alt="skills"/>
+</p>
+
+---
+
+### 📊 Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Yahyalt&theme=tokyonight&hide_border=true&border_radius=12" />
+    <img alt="streak" src="https://streak-stats.demolab.com?user=Yahyalt&theme=default&hide_border=true&border_radius=12" />
+  </picture>
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Yahyalt&theme=tokyo-night&hide_border=true&radius=12&area=true" />
+    <img alt="activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Yahyalt&theme=github-light&hide_border=true&radius=12&area=true" />
+  </picture>
+</p>
+
+---
