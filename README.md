@@ -14,7 +14,8 @@
 
 I build test automation frameworks and reliability tooling — focused on catching what manual testing misses, in web, mobile, and API layers.
 
-- 🛠️ &nbsp; Automating end-to-end and API test flows with **Playwright, Cypress, Katalon Studio, CodeceptJS, and Karate**.
+- 🛠️ &nbsp; Automating end-to-end and API test flows with **Playwright, Cypress, Katalon Studio, CodeceptJS, Karate, Selenium, Appium, and Jest**.
+- 🧪 &nbsp; Managing test cases, defects, and API exploration with **Postman, TestRail, Jira, and Tricentis qTest**.
 - 🧠 &nbsp; Most days I'm deep in **JavaScript/TypeScript**, cross-checking frontend data against backend records via SQL, MongoDB, and API gateway logs.
 - 🌱 &nbsp; Currently learning **backend/fullstack development** — Node.js (Hapi.js), PHP/Laravel, and PostgreSQL — to build my own tools and trace bugs at the source, not just the surface.
 
@@ -36,6 +37,21 @@ I build test automation frameworks and reliability tooling — focused on catchi
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,php,laravel,html,mysql,postgres,mongodb,git,github,vscode" alt="skills"/>
+</p>
+
+### 🧪 QA & Testing tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=playwright,cypress,selenium,postman,jest" alt="qa tools"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Katalon_Studio-FF6E42?style=for-the-badge&logo=katalon&logoColor=white" alt="katalon"/>
+  <img src="https://img.shields.io/badge/CodeceptJS-F4B400?style=for-the-badge" alt="codeceptjs"/>
+  <img src="https://img.shields.io/badge/Karate-E4405F?style=for-the-badge" alt="karate"/>
+  <img src="https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=testinglibrary&logoColor=white" alt="appium"/>
+  <img src="https://img.shields.io/badge/TestRail-6D3EC1?style=for-the-badge" alt="testrail"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="jira"/>
+  <img src="https://img.shields.io/badge/qTest-1E90FF?style=for-the-badge" alt="qtest"/>
 </p>
 
 ---
