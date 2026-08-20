@@ -12,17 +12,17 @@
 
 ### 🧪 About
 
+### 🧪 About
+
 From a kid who spent hours gaming and tinkering with computers, to a QA Engineer who breaks things for a living. Curiosity led me down the QA path — even though my heart was initially set on backend development. Turns out that pull toward backend is exactly what makes me effective at tracing bugs and understanding systems from the inside out, not just the surface.
 
 I build test automation frameworks and reliability tooling — focused on catching what manual testing misses, in web, mobile, and API layers.
 
-- 🏦 &nbsp; 4+ years ensuring software quality across financial services, banking, and enterprise applications — including **BTN, Amar Bank, and PrivyID** — with a track record of catching critical defects before they hit production.
 - 🛠️ &nbsp; Automating end-to-end and API test flows with **Playwright, Cypress, Katalon Studio, CodeceptJS, Karate, Selenium, Appium, and Jest**.
 - 🧪 &nbsp; Managing test cases, defects, and API exploration with **Postman, TestRail, Jira, and Tricentis qTest**.
 - 🧠 &nbsp; Most days I'm deep in **JavaScript/TypeScript**, cross-checking frontend data against backend records via SQL, MongoDB, and API gateway logs.
 - 🌱 &nbsp; Currently building out **backend/fullstack skills** — Node.js (Hapi.js), PHP/Laravel, and PostgreSQL — to build my own tools and trace bugs at the source.
 
-Always learning, always testing, always improving.
 
 ---
 
