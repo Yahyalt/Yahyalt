@@ -12,8 +12,6 @@
 
 ### 🧪 About
 
-### 🧪 About
-
 From a kid who spent hours gaming and tinkering with computers, to a QA Engineer who breaks things for a living. Curiosity led me down the QA path — even though my heart was initially set on backend development. Turns out that pull toward backend is exactly what makes me effective at tracing bugs and understanding systems from the inside out, not just the surface.
 
 I build test automation frameworks and reliability tooling — focused on catching what manual testing misses, in web, mobile, and API layers.
